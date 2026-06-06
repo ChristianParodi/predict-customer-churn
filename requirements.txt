@@ -8,9 +8,10 @@ uvicorn
 pydantic
 python-dotenv
 joblib
-great-expectations
+great-expectations<1.0
 pytest
 statsmodels
 lightgbm
 xgboost
 optuna
+posthog
