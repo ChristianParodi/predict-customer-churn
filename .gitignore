@@ -1,0 +1,14 @@
+# python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# artifacts
+mlruns/
+artifacts/
+data/raw/
+data/processed/
+
+# keep our bundled serving model in the repo
+!src/serving/model/
+!src/serving/model/**
