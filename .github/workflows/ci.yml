@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./dockerfile
           push: true
-          tags: christianparodi/telco-fastapi:latest
+          tags: chris87jpeg/telco-fastapi:latest
